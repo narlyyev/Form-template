@@ -1,0 +1,185 @@
+.bold {
+    font-weight: bolder;
+    font-size: 35px;
+    padding-top: 20px;
+    padding-left: 30px;
+}
+
+.italic {
+    padding-left: 30px;
+}
+
+span {
+    color: red;
+}
+
+
+.contact , .info {
+    margin-top: 30px;
+    margin-left: 35px;
+    border: 1px solid;
+    width: 600px;
+    height: 150px;
+    line-height: 40px;
+    border-radius: 5px;
+    position: relative;
+}
+
+.info {
+    height: 225px;
+}
+
+
+#name {
+    margin-top: 30px;
+    margin-left: 56px;
+    width: 260px;
+    border-radius: 2px;
+    border: 1px ridge;
+    outline: none;
+}
+
+
+#tel {
+    margin-left: 40px;
+    width: 260px;
+    border-radius: 2px;
+    border: 1px ridge;
+    outline: none;
+}
+
+
+#mail {
+    margin-left: 56px;
+    width: 260px;
+    border-radius: 2px;
+    border: 1px ridge;
+    outline: none;
+
+}
+
+label {
+    margin-left: 20px;
+}
+
+.legend {
+    width: 110px;
+    background-color: #fff;
+    position: absolute;
+    top: -20px;
+    left: 15px;
+    font-weight: bold;
+}
+
+.personal {
+    width: 150px;
+    background-color: #fff;
+    position: absolute;
+    top: -20px;
+    left: 15px;
+    font-weight: bold;
+}
+
+
+.keeper {
+    width: 120px;
+    line-height: 20px;
+}
+
+textarea {
+    overflow-y: scroll;
+    margin-left: 130px;
+    margin-top: -85px;
+    width: 260px;
+    height: 95px;
+    border-radius: 2px;
+    border: 1px ridge;
+    resize: none;
+    outline: none;
+}
+
+
+#age {
+    margin-top: 30px;
+    margin-left: 72px;
+    width: 260px;
+    border-radius: 2px;
+    border: 1px ridge;
+    outline: none;
+}
+
+select{
+    width: 265px;
+    margin-left: 60px;
+    border: 1px ridge;
+    border-radius: 2px;
+    outline: none;
+
+}
+
+.quest {
+    padding-left: 21px;
+}
+
+.gend {
+    padding-left: -10px;
+}
+
+
+.check {
+    margin-top: 30px;
+    margin-left: 35px;
+    border: 1px solid;
+    width: 600px;
+    height: 100px;
+    line-height: 40px;
+    border-radius: 5px;
+    position: relative;
+    
+    
+}
+
+
+.pick {
+    width: 257px;
+    background-color: #fff;
+    position: absolute;
+    top: -20px;
+    left: 15px;
+    font-weight: bold;
+}
+
+.animals {
+    margin-top: -5px;
+    padding-top: 17px;
+    padding-left: 15px;
+    list-style-type: none;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    
+}
+
+.one {
+    margin-left: 3px;
+}
+
+.btn {
+    margin-left: 35px;
+    margin-top: 15px;
+    width: 170px;
+    height: 40px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 5px;
+    border: 1px solid;
+    font-size: 15px;
+    background-color: rgb(0 126 213);
+    color: white;
+
+}
+
+
+
+
+
+
+
